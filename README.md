@@ -11,8 +11,8 @@ Hello, my name is **Aryan**, I am from **India**. I'm just a person who wants to
 <hr>
 
 ### My Youtube Stats 🛠
-[![Subscribe My YT](https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UC6Ih5SSLMP3VqCq0ouwbXJA&key=AIzaSyCwkMvIEdtNea57Y0iCoj0w3vZIdmywsHc&label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630)](https://www.youtube.com/channel/UCudfJzh0kz85UwRmq-izU-w?sub_confirmation=1)
-[![My YT Views Count](https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UC6Ih5SSLMP3VqCq0ouwbXJA&key=AIzaSyCwkMvIEdtNea57Y0iCoj0w3vZIdmywsHc&label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d)](https://www.youtube.com/channel/UCudfJzh0kz85UwRmq-izU-w?sub_confirmation=1)
+[![Subscribe My YT](https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCudfJzh0kz85UwRmq-izU-w&key=AIzaSyCwkMvIEdtNea57Y0iCoj0w3vZIdmywsHc&label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630)](https://www.youtube.com/channel/UCudfJzh0kz85UwRmq-izU-w?sub_confirmation=1)
+[![My YT Views Count](https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCudfJzh0kz85UwRmq-izU-w&key=AIzaSyCwkMvIEdtNea57Y0iCoj0w3vZIdmywsHc&label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d)](https://www.youtube.com/channel/UCudfJzh0kz85UwRmq-izU-w?sub_confirmation=1)
 
 <hr>
 
