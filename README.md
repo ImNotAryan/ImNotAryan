@@ -18,5 +18,5 @@ Hello, my name is **Aryan**, I am from **India**. I'm just a person who wants to
 
 ### My Github Stats 🛠
 [![ImNotAryan GitHub stats](https://github-readme-stats.vercel.app/api?username=ImNotAryan&show_icons=true&theme=algolia)](https://github.com/ImNotAryan)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImNotAryan&layout=compact&theme=algolia)](https://github.com/ImNotAryan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImNotAryan&layout=compact&theme=algolia)](https://github.com/ImNotAryan)
 [![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImNotAryan&theme=monokai)](https://github.com/ImNotAryan)
